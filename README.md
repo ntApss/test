@@ -1,4 +1,4 @@
-# OMNI JP WEB PAGE
+# SONiC USERS JP WEB PAGE
 
 ## Getting Started
 
