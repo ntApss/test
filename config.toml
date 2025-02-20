@@ -74,8 +74,8 @@ anchor = "smart"
 
 [languages]
 [languages.ja]
-title = "OMNI JP"
-description = "Docs for Open Mobile Network Infra Community"
+title = "SONiC Users JP"
+description = "Docs for SONiC Users JP"
 languageName ="日本語"
 # Weight used for sorting.
 weight = 1
@@ -95,7 +95,7 @@ weight = 1
 [params]
 copyright = "Open Mobile Network Infra Community"
 #privacy_policy = "https://policies.google.com/privacy"
-contact = "運営への問い合わせ: omni.infra.jp[AT]gmail.com"
+contact = "運営への問い合わせ: 準備中[AT]gmail.com"
 
 # Menu title if your navbar has a versions selector to access old versions of your site.
 # This menu appears only if you have at least one [params.versions] set.
@@ -174,7 +174,7 @@ enable = false
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
 # [[params.links.user]]
 #         name = "運営への問い合わせ"
-# 	url = "mailto:omni.infra.jp@gmail.com"
+# 	url = "準備中@gmail.com"
 # 	icon = "fa fa-envelope"
 #         desc = "OMNI JP Official mailing list. "
 [[params.links.user]]

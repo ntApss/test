@@ -1,34 +1,21 @@
 ---
-title: "5GのOSSってどこまで使えるの？"
+title: "SONiC"
 date: 2022-02-12T23:40:00+09:00
 draft: true
-slug: 5g_oss
+slug: sonic
 ---
 
 ## はじめに
 
-5Gあるいは5Gサービスと聞くとモバイルキャリアにより提供されるネットワークサービスで、大手ベンダ製品を使ってモバイルネットワークが構築されているイメージを持たれる方も多いのではないでしょうか。
-
-最近では、5Gネットワークをオープンソースソフトウェア（以下、OSS）で実現する動きが出始めており、個人でも手軽に5G環境を構築することが可能となっています。
-
-本記事では、5GのOSSについて紹介したいと思います。
+本記事では、SONiCについて紹介したいと思います。
 
 
-## そもそも、モバイルネットワークとは?
+## そもそも、NOSとは?
 
-「端末 (User Equipment)」、「無線アクセスネットワーク (Radio Access Network) 」、「コアネットワーク (Core Network)」の３要素から構成される無線通信設備を指しています。
 
-端末＝スマホ、無線アクセスネットワーク＝基地局、コアネットワーク＝認証サーバやルータ等をイメージするとわかりやすいかと思います。
+## SONiC
 
-![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/490507/6fccda6e-db9a-3fb3-0fcb-3645d1c92d63.png)
-
-## 5GのOSSについて
-
-5GのOSSについて、構成要素（UE/RAN/CN）ごとにそれぞれコミュニティがあり、開発が行われています。
-
-### RAN
-代表的な、OpenAirInterfaceCとUERANSIMについて記載します。それ以外にも、srsRANやSD-RANe等のOSSがあります。
-
+### SONiC1
 - [OAI-RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/)
   - OpenAirInterface Software Alliance(OSA)が提供する3GPPプロトコルに準拠した無線アクセスネットワーク系（eNB/gNB/UE）のソフトウェア
   - 3GPP仕様に則り開発されているため、リファレンスコードとしても利用される

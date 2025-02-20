@@ -7,48 +7,54 @@ menu:
 ---
 
 {{% blocks/cover color="primary" height="min" %}}
-# What is Open Mobile Network Infra Community?
+# SONiC Users JPとは
 
-Open Mobile Network Infra Community Japan (<strong>omni-jp</strong>) とは，  
-モバイルインフラの構成技術要素（RAN，Core，Platform，device 等）の枠を超え，技術者（開発者・ユーザ）が主体的に情報発信したり様々なモバイルインフラのOSSコミュニティの最新情報を展開する等，技術者同士の交流を促進させることを目的としたコミュニティです.
+オープンソースNOS（Network Operating System）である SONiC に関する日本語での交流を目的としたコミュニティです。現在は非定期のイベント（Workshop）開催に向けた準備をする有志で構成され、アドホックなイベント開催母体として非定期での活動を想定しています。有志が集まればより組織的な活動も可能ですので、SONiCの日本コミュニティ拡大に興味ある方はぜひ管理者にご連絡ください。
 
-<i class="fab fa-twitter"></i> [#omni_jp](https://twitter.com/search?q=%23omni_jp)
 {{% /blocks/cover %}}
-
-
 {{% blocks/section color="white"%}}
 
 {{% blocks/feature title="Events" %}}
-2-3カ月に1回Meetupを開催予定です．  
+非定期でMeetupを開催予定です．  
 発表者も随時受け付けています．  
 
-[Meetup発表申込フォーム](https://docs.google.com/forms/d/e/1FAIpQLSfPyOnXtg-nGFLD7H0tIMLD2J00URC0J9-IlwVmhCu_qU48hw/viewform)
+[SONiC Users JP COMPASS](https://sonic.connpass.com/)
 
-不定期でHands-on等も実施してます.
+不定期でその他のMeetingも実施してます.
 
 [過去のイベント](/events)
 
+
 {{% /blocks/feature %}}
 
+
 {{% blocks/feature title="Slack Workspace" icon="fab fa-slack" %}}
+
 情報交換や雑談，質問をする場になります．  
 お気軽にご参加ください．
 
-[Slack Workspaceに参加する](https://join.slack.com/t/omni-jp/shared_invite/zt-nrwl8rw3-gZIS1FckzeQ2efagTrWUpA)
+[Slack Workspaceに参加する(準備中)](https;//github.com/)
 
 {{% /blocks/feature %}}
 
 {{% blocks/feature title="Github Organization" icon="fab fa-github" %}}
 OSS活動の場として準備中です．  
 
-[omni-jp Github Organization](https://github.com/omni-jp)
+[SONiC Users JP Github Organization(準備中)](https://github.com/)
 {{% /blocks/feature %}}
 
 {{% blocks/feature title="YouTube Channel" icon="fab fa-youtube" %}}
 Meetup配信用のChannelです．  
 
-[omni-jp YouTube Channel](https://www.youtube.com/channel/UCnZp6DJTQQfoT6rLt8CBz5g)
+[SONiC Users JP YouTube Channel](https://www.youtube.com/@sonic-japan/videos)
 
-{{% /blocks/feature %}}
+{{% /blocks/feature%}}
+
+{{% blocks/feature title="Speaker Deck" icon="" %}}
+SONiCに関する有益なSlideをまとめています. 
+
+[Speaker Deck](https://speakerdeck.com/sonic)
+
+{{% /blocks/feature%}}
 
 {{% /blocks/section %}}
