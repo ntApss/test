@@ -13,8 +13,8 @@
 ### Build site on local
 
 ```bash
-git clone https://github.com/omni-jp/omni-jp.github.io.git
-cd omni-jp.github.io
+git clone https://github.com/ntApss/sonic-users-jp.github.io.git
+cd sonic-users-jp.github.io
 git submodule update --init --recursive
 npm install
 hugo server -D -F
