@@ -18,7 +18,7 @@ defaultContentLanguageInSubdir = false
 # Useful when translating.
 enableMissingTranslationPlaceholders = true
 
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 
 # Highlighting config
 pygmentsCodeFences = true
@@ -73,7 +73,7 @@ anchor = "smart"
 # Language configuration
 
 [languages]
-[languages.ja]
+[languages.ja.params]
 title = "SONiC Users JP"
 description = "Docs for SONiC Users JP"
 languageName ="日本語"
