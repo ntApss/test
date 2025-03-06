@@ -1,4 +1,4 @@
-baseURL = "https://ntApss.github.io/sonic-users-jp"
+baseURL = "https://ntApss.github.io/test"
 title = "SONiC Users JP"
 
 enableRobotsTXT = true
