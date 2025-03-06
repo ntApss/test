@@ -2,7 +2,7 @@ baseURL = "https://ntApss.github.io/sonic-users-jp"
 title = "Docsy Example"
 
 enableRobotsTXT = true
-
+ignoreErrors = ["error-disable-taxonomy"]
 canonifyurls = true
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
