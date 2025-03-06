@@ -1,5 +1,5 @@
 baseURL = "https://ntApss.github.io/sonic-users-jp"
-title = "Docsy Example"
+title = "SONiC Users JP"
 
 enableRobotsTXT = true
 canonifyurls = true
@@ -92,7 +92,7 @@ weight = 1
 # Everything below this are Site Params
 
 [params]
-copyright = "Open Mobile Network Infra Community"
+copyright = "SONiC Users JP"
 #privacy_policy = "https://policies.google.com/privacy"
 contact = "運営への問い合わせ: 準備中[AT]gmail.com"
 
@@ -171,32 +171,32 @@ enable = false
 
 [params.links]
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
-# [[params.links.user]]
-#         name = "運営への問い合わせ"
-# 	url = "準備中@gmail.com"
-# 	icon = "fa fa-envelope"
-#         desc = "OMNI JP Official mailing list. "
 [[params.links.user]]
-	name ="Twitter"
-	url = "https://twitter.com/omni_infra_jp"
-	icon = "fab fa-twitter"
-        desc = "Follow us on Twitter to get the latest news!"
+        name = "運営への問い合わせ"
+ 	url = "準備中@gmail.com"
+ 	icon = "fa fa-envelope"
+        desc = "OMNI JP Official mailing list. "
+# [[params.links.user]]
+#	name ="Twitter"
+#	url = "https://twitter.com/omni_infra_jp"
+#	icon = "fab fa-twitter"
+#        desc = "Follow us on Twitter to get the latest news!"
 # [[params.links.user]]
 	# name = "Stack Overflow"
 	# url = "https://example.org/stack"
 	# icon = "fab fa-stack-overflow"
         # desc = "Practical questions and curated answers"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
-[[params.links.user]]
-	name = "GitHub"
-	url = "https://github.com/omni-jp"
-	icon = "fab fa-github"
-        desc = "Development takes place here!"
-[[params.links.user]]
-	name = "Slack"
-	url = "https://join.slack.com/t/omni-jp/shared_invite/zt-nrwl8rw3-gZIS1FckzeQ2efagTrWUpA"
-	icon = "fab fa-slack"
-        desc = "Chat with other project members"
+#[[params.links.user]]
+#	name = "GitHub"
+#	url = "https://github.com/omni-jp"
+#	icon = "fab fa-github"
+#        desc = "Development takes place here!"
+#[[params.links.user]]
+#	name = "Slack"
+#	url = "https://join.slack.com/t/omni-jp/shared_invite/zt-nrwl8rw3-gZIS1FckzeQ2efagTrWUpA"
+#	icon = "fab fa-slack"
+ #       desc = "Chat with other project members"
 # [[params.links.developer]]
 	# name = "Developer mailing list"
 	# url = "https://example.org/mail"
